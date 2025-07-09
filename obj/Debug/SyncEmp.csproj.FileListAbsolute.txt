@@ -1,0 +1,14 @@
+F:\VS.Project\SourceTree\MK\SyncEmp\SyncEmp\bin\Debug\SyncEmp.exe.config
+F:\VS.Project\SourceTree\MK\SyncEmp\SyncEmp\bin\Debug\SyncEmp.exe
+F:\VS.Project\SourceTree\MK\SyncEmp\SyncEmp\bin\Debug\SyncEmp.pdb
+F:\VS.Project\SourceTree\MK\SyncEmp\SyncEmp\obj\Debug\SyncEmp.csproj.AssemblyReference.cache
+F:\VS.Project\SourceTree\MK\SyncEmp\SyncEmp\obj\Debug\SyncEmp.csproj.CoreCompileInputs.cache
+F:\VS.Project\SourceTree\MK\SyncEmp\SyncEmp\obj\Debug\SyncEmp.exe
+F:\VS.Project\SourceTree\MK\SyncEmp\SyncEmp\obj\Debug\SyncEmp.pdb
+D:\P.ben\SyncEmp_MK\SyncEmp\bin\Debug\SyncEmp.exe.config
+D:\P.ben\SyncEmp_MK\SyncEmp\bin\Debug\SyncEmp.exe
+D:\P.ben\SyncEmp_MK\SyncEmp\bin\Debug\SyncEmp.pdb
+D:\P.ben\SyncEmp_MK\SyncEmp\obj\Debug\SyncEmp.csproj.AssemblyReference.cache
+D:\P.ben\SyncEmp_MK\SyncEmp\obj\Debug\SyncEmp.csproj.CoreCompileInputs.cache
+D:\P.ben\SyncEmp_MK\SyncEmp\obj\Debug\SyncEmp.exe
+D:\P.ben\SyncEmp_MK\SyncEmp\obj\Debug\SyncEmp.pdb
